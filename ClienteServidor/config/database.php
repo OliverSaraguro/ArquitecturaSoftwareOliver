@@ -16,7 +16,7 @@ class Database {
     private const DB_HOST = 'localhost';
     private const DB_NAME = 'gimnasio_db';
     private const DB_USER = 'oliver';  // Usuario actual (cambiar si es necesario)
-    private const DB_PASS = '12345';           // Sin contraseña para usuario local
+    private const DB_PASS = 'clave';           // Sin contraseña para usuario local
     private const DB_PORT = '5432';
     
     /**
